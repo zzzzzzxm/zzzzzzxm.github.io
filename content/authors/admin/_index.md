@@ -33,12 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'xm_zhang@mail.ustc.edu.cn'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
-  - icon: weixin
-    url: xtuyghqqkg
+
 
 interests:
   - Artificial Intelligence
