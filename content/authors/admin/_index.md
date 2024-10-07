@@ -3,7 +3,7 @@
 title: Xinming Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shin-ming Zhahng
 
 # Full name (for SEO)
 first_name: Xinming
@@ -42,14 +42,9 @@ interests:
 
 education:
   - area: PhD Computer Science and Technology
-    institution: Stanford University
+    institution: University of Science and Technology of China
     date_start: 2024-09-01
     date_end: 2028-06-30
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
   - area: MEng Computer Technology
     institution: University of Science and Technology of China
     date_start: 2022-09-01
@@ -90,6 +85,5 @@ languages:
 
 ---
 ## About Me
-About me:
 Xinming Zhang is a PhD candidate with EIT Robot Learning Lab, supervised by Assistant Professor Wei Zhang and Professor Guodong Guo. His research interests include embodied ai, humanoid robots locomotion and reinforcement learning. He is committed to making the world a better place through technology.
 
