@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/zzzzzzxm
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   - icon: weixin
