@@ -95,6 +95,6 @@ languages:
 
 
 ## About Me
-
+About me:
 Xinming Zhang is a PhD candidate with EIT Robot Learning Lab, supervised by Assistant Professor Wei Zhang and Professor Guodong Guo. His research interests include embodied ai, humanoid robots locomotion and reinforcement learning. He is committed to making the world a better place through technology.
 ---
